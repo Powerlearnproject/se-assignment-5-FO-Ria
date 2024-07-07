@@ -1,0 +1,32 @@
+Installing VS Code on Windows 11:
+When I first installed VS Code, I visited the official website at https://code.visualstudio.com/ and clicked the "Download for Windows" button and ran the installer once it finished downloading. The setup wizard was straightforward - I agreed to the license terms, chose the default installation location, and ensured that I checked the boxes for "Add 'Open with Code'" actions and "Add to PATH". This last option has been particularly useful, as it lets me open VS Code from the command line.
+
+First-time Setup:
+After installation, the first thing I did was choose a colour theme that was easy on my eyes. I went to File > Preferences > Color Theme and browsed through the options until I found one I liked. Then, I installed some essential extensions for the languages I use most often. I clicked on the Extensions icon in the Activity Bar and searched for things like "Python" and "JavaScript".
+I also took some time to configure auto-save (To not lose work and save time), adjust the font size and family to something I find comfortable, and set up my integrated terminal preferences. All of these settings I found under File > Preferences > Settings.
+
+User Interface Overview:
+As I started using VS Code, I quickly became familiar with its main components. The Activity Bar on the far left is where I click to switch between different views like File Explorer and Search. The Side Bar opens when I click these icons, showing me file trees or search results.
+The Editor Group in the centre is where I spend most of my time, writing and editing code. I love that I can split this into multiple panes when I need to view different files side by side.
+At the bottom, the Status Bar has been really useful. I often glance at it to check which git branch I'm on or what line number I'm currently at in my file.
+
+Command Palette:
+ I use Ctrl+Shift+P to open it, and it's amazing how many tasks I can accomplish just by typing a few letters. Whether I need to change a setting, run a git command, or switch file types, the Command Palette usually gets me there faster than navigating through menus.
+
+Extensions in VS Code:
+Extensions have improved my coding experience in VS Code. I've installed quite a few, but some of my essentials for web development include Live Server for easy local hosting, ESLint for catching JavaScript errors, and Prettier for consistent code formatting.
+I clicked on the  Extensions icon, searched for what I needed, and clicked Install. Managing them is just as simple, with options to disable or uninstall them right there in the same view.
+Integrated Terminal:
+I use the integrated terminal and have learnt the shortcut  Ctrl+` and love that I can have multiple terminals open for different tasks. It's so convenient to run commands without leaving VS Code, especially when I'm working on a project that requires frequent use of npm or git commands.
+
+File and Folder Management:
+For Files and Folder Management,I mostly use File Explorer in the sidebar. I can create new files or folders with a right-click, and opening files is as easy as clicking on them. When I need to find a file quickly, I use Quick Open (Ctrl+P) - it's much faster than browsing through folders.
+
+Settings and Preferences:
+I've customised quite a few settings in VS Code. I usually access these by pressing Ctrl+, to open the Settings editor. From there, I can search for specific settings like "font size" or "word wrap".
+
+Debugging in VS Code:
+I am currently learning and mastering the act of Debugging in VS Code has been a game-changer for me. And the shortcut to this is F5.
+
+Using Source Control:
+VS Code is my number one version control and IDE. For Git integration: I initialised my repository right from the Source Control view, and now I can stage changes, commit, and push all from within VS Code. The visual diff view is particularly helpful when I'm reviewing changes before a commit.
